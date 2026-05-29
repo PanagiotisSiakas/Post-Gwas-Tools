@@ -1,0 +1,3 @@
+To access the tailored LD-panels used for LD-pruning please follow the follow repository link: 
+
+https://zenodo.org/records/19183476?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjZkYTk3MzIwLWQxY2UtNDkxOC1hMzliLWRlMWE0MjIwMDNlZiIsImRhdGEiOnt9LCJyYW5kb20iOiJkNThkYmM0ZjM1NWRiNjM5Zjk3ZDBiYTQ2MzNlNzQ2OSJ9.tHEZRKlQXWGNmvV70fgJUSHop_pFW75Cjn0grH6Qp0Gg6PA2IZo0EJSazgFPFoRIiVNom87KlO9rRtEXWTJyQg
